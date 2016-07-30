@@ -4,5 +4,4 @@ module Yterashima2016Gem
   def self.calcBMI(height,weight)
                 puts "Your BMI is " + (weight/(height*height)).to_s
   end
-
 end
