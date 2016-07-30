@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "yterashima_2016_gem"
   spec.version       = Yterashima2016Gem::VERSION
   spec.authors       = ["tryc"]
-  spec.email         = ["terashima.yuko@gmail.com"]
+  spec.email         = ["y_sun_yoko@gmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
